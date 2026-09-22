@@ -2,7 +2,22 @@
   "users": [
     {
       "username": "Franciszw",
-      "password": "Amir",
+      "password": "1234567",
+      "expires": "2026-10-22"
+    },
+    {
+      "username": "Franciszw1",
+      "password": "777111",
+      "expires": "2026-10-22"
+    },
+    {
+      "username": "Franciszw2",
+      "password": "888222",
+      "expires": "2026-10-22"
+    },
+    {
+      "username": "Franciszw3",
+      "password": "999333",
       "expires": "2026-10-22"
     }
   ]
