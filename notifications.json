@@ -1,9 +1,9 @@
 {
-"notifications": [
-{
-"active": true,
-"title": "امیر777",
-"message": "تست"
-}
-]
+  "notifications": [
+    {
+      "active": true,
+      "title": "امیر777",
+      "message": "تست"
+    }
+  ]
 }
